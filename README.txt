@@ -106,3 +106,8 @@ Converter output (./converter < graph.txt > con_graph.txt 20 1 5):
 
 Template Run:
 ./main < [graph name] [size]
+
+
+################################# References #################################
+
+http://research.nii.ac.jp/~uno/index.html
